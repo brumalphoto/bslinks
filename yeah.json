@@ -1,0 +1,8 @@
+// wrangler.jsonc
+{
+  "name": "bslinks",
+  "compatibility_date": "2026-02-14",
+  "assets": {
+    "directory": "."
+  }
+}
